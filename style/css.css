@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+.imt {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: 6px;
+    border: 5px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 20px #000;
+
+}
